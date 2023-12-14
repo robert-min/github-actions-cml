@@ -20,6 +20,10 @@ MLOps 엔지니어를 목표로 여러 프로젝트를 진행 중 "머신러닝 
 
 <br></br>
 
+![KakaoTalk_Photo_2023-12-14-15-10-26](https://github.com/robert-min/github-actions-cml/assets/91866763/3736ae5f-c390-41c1-adde-07d93360c1ff)
+
+<br></br>
+
 
 <img width="827" alt="스크린샷 2023-12-11 오후 4 51 56" src="https://github.com/robert-min/github-actions-cml/assets/91866763/2cd3c113-340e-4de0-9a05-f78ca5b47c1e">
 
